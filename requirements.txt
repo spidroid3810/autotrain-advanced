@@ -5,7 +5,7 @@ ipadic==1.0.0
 jiwer==3.0.5
 joblib==1.4.2
 loguru==0.7.2
-pandas==2.2.3
+pandas==2.2.2
 nltk==3.9.1
 optuna==4.0.0
 Pillow==11.0.0
